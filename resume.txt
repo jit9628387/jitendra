@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resume</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+		}
+		.resume {
+			width: 80%;
+			margin: 0 auto;
+			padding: 20px;
+			border: 1px solid #ddd;
+			border-radius: 10px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		.section {
+			margin-bottom: 20px;
+		}
+		.section h2 {
+			background-color: #f0f0f0;
+			padding: 10px;
+			border-bottom: 1px solid #ddd;
+		}
+		.list {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		.list li {
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div class="resume">
+	<div class="section">
+			<h2>Summary</h2>
+			<p> Contact Information </p>
+			<p> Education </p>
+			<p> Language </p>
+		</div>
+		<div class="section">
+			<h2>Contact Information</h2>
+			<ul class="list">
+				<li>Name: sindhav jitendrakumar</li>
+				<li>Email: [Sindhavjit@gmail.com](mailto:sindhavjit@gamil.com)</li>
+				<li>Phone: 8320-40-8672</li>
+				<li>Address: saptshil, Apparment, jodhpur, Ahmedabad
+			</ul>
+		</div>
+		<div class="section">
+			<h2>Education</h2>
+			<ul class="list">
+				<li>I Can Complete My 10th From navnirman,Radhanpur,Gujarat In 2021-22</li>
+				<li>I Can Complete My 12th From S V KADI Science School ,Gujarat In 2023-24<li>
+				<li>Pursing The College From Silver Oak University, Ahmedabad</li>
+		</div>
+		<div class="section">
+			<h2>Language</h2>
+			<ul class="list">
+				<li>English</li>
+				<li>Hindi</li>
+				<li>Gujarati</li>
+			</ul>
+		</div>
+</body>
+</html>
